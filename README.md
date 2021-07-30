@@ -6,4 +6,4 @@ For the Pattern Recognition Lab course at United International University, we ch
 ## Instructor:
 Md. Rakibul Haque (rakibul@cse.uiu.ac.bd)
 
-This repository contains the codes, datasets, and other files related to the project.
+This repository contains the codes, papers, and other files related to the project.
