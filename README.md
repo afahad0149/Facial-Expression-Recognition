@@ -1,9 +1,5 @@
 # Facial Expression Recognition
-Project for the course CSI 416 (Pattern Recognition Laboratory)
 
-For the Pattern Recognition Lab course at United International University, we chose to implement the methods of the paper [Recognizing Facial Expressions Using Deep Learning](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf) based on our topic of interest which was Facial Expression Recognition.
+### Description
 
-## Instructor:
-Md. Rakibul Haque (rakibul@cse.uiu.ac.bd)
-
-This repository contains the codes, papers, and other files related to the project.
+In this project we have implemented various deep learning methods such as Convolutional Neural Networks to identify six main human emotions that are anger, disgust, fear, happiness, sadness, surprise and lack thereof meaning neutrality. We have used two datasets, one is Kaggle’s Facial Expression Recognition(FER) and another is Karolinska Directed Emotional Faces(KDEF) dataset. The architecture we have applied for our Convolutional Neural Networks were VGG16 and ResNet50. The accuracy we have got using FER dataset was 64.3% and the accuracy we have got from KDEF dataset was 81.1% using VGG-16, 67.8% using ResNet50 architecture.
